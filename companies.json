@@ -8,10 +8,11 @@
       "brand",
       "visual",
       "creative",
-      "graphic"
+      "graphic",
+      "product manager",
+      "product owner"
     ],
     "title_exclude": [
-      "engineer",
       "developer",
       "recruiter"
     ],
