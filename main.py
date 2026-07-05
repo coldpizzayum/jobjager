@@ -24,13 +24,7 @@ HEADERS = {"User-Agent": "job-alert-bot/1.0 (personal job search)"}
 # ---------------------------------------------------------------- fetchers
 
 def fetch_greenhouse(company):
-    region = company.get("region", "us")
-    base = (
-        "https://boards-api.eu.greenhouse.io"
-        if region == "eu"
-        else "https://boards-api.greenhouse.io"
-    )
-    url = f"{base}/v1/boards/{company['token']}/jobs"
+    url = f"https://boards-api.greenhouse.io/v1/boards/{company['token']}/jobs"
     r = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
     r.raise_for_status()
     jobs = []

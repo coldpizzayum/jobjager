@@ -48,7 +48,6 @@ python main.py --check
 會列出每家公司抓到幾筆職缺、哪些符合條件。如果某家顯示「抓取失敗」:
 
 - **Greenhouse 系**:到 `boards.greenhouse.io/<猜的token>` 試開,或去公司 careers 頁按 F12 → Network 看實際請求裡的 token,改進 `companies.json`
-- **歐洲版 Greenhouse**(如 Bitpanda):token 正確但 US API 失敗時,加上 `"region": "eu"`
 
 ### 6. 啟動
 

@@ -32,7 +32,7 @@
     { "name": "Trade Republic", "ats": "greenhouse", "token": "traderepublic" },
     { "name": "SumUp", "ats": "greenhouse", "token": "sumup" },
     { "name": "Adyen", "ats": "greenhouse", "token": "adyen" },
-    { "name": "Bitpanda", "ats": "greenhouse", "token": "bitpanda", "region": "eu" },
+    { "name": "Bitpanda", "ats": "greenhouse", "token": "bitpanda" },
     { "name": "Mollie", "ats": "ashby", "token": "mollie" },
     { "name": "Bitvavo", "ats": "ashby", "token": "bitvavo" },
     { "name": "Mondu", "ats": "workable", "token": "mondu" }
