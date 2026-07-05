@@ -36,6 +36,25 @@
     { "name": "Bitpanda", "ats": "greenhouse", "token": "bitpanda" },
     { "name": "Mollie", "ats": "ashby", "token": "mollie" },
     { "name": "Bitvavo", "ats": "ashby", "token": "bitvavo" },
-    { "name": "Mondu", "ats": "workable", "token": "mondu" }
+    { "name": "Mondu", "ats": "workable", "token": "mondu" },
+    { "name": "Staffbase", "ats": "greenhouse", "token": "staffbase" },
+    { "name": "DEPT", "ats": "greenhouse", "token": "dept" },
+    { "name": "bol", "ats": "greenhouse", "token": "bolcom" },
+    { "name": "Databricks", "ats": "greenhouse", "token": "databricks" },
+    { "name": "n8n", "ats": "ashby", "token": "n8n" },
+    { "name": "Miro", "ats": "ashby", "token": "miro" },
+    { "name": "Rasa", "ats": "ashby", "token": "rasa" },
+    { "name": "Ostrom", "ats": "ashby", "token": "Ostrom" },
+    { "name": "AutoScout24", "ats": "greenhouse", "token": "autoscout24" },
+    { "name": "Scout24", "ats": "greenhouse", "token": "scout24" },
+    { "name": "Atolls", "ats": "greenhouse", "token": "atolls" },
+    { "name": "Nebius", "ats": "greenhouse", "token": "nebius" },
+    { "name": "Kayak", "ats": "ashby", "token": "kayak" },
+    { "name": "Enmacc", "ats": "greenhouse", "token": "enmacc" },
+    { "name": "Hawk AI", "ats": "ashby", "token": "hawk" },
+    { "name": "GetYourGuide", "ats": "greenhouse", "token": "getyourguide" },
+    { "name": "Contentful", "ats": "greenhouse", "token": "contentful" },
+    { "name": "Celonis", "ats": "greenhouse", "token": "celonis" },
+    { "name": "Ashby", "ats": "ashby", "token": "ashby" }
   ]
 }
