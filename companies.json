@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "title_keywords": [
+      "design",
+      "designer",
+      "ux",
+      "ui",
+      "brand",
+      "visual",
+      "creative",
+      "graphic"
+    ],
+    "title_exclude": [
+      "engineer",
+      "developer",
+      "recruiter"
+    ],
+    "locations": [
+      "berlin",
+      "amsterdam",
+      "munich",
+      "vienna",
+      "germany",
+      "netherlands",
+      "austria",
+      "remote",
+      "europe"
+    ]
+  },
+  "companies": [
+    { "name": "N26", "ats": "greenhouse", "token": "n26" },
+    { "name": "Trade Republic", "ats": "greenhouse", "token": "traderepublic" },
+    { "name": "SumUp", "ats": "greenhouse", "token": "sumup" },
+    { "name": "Adyen", "ats": "greenhouse", "token": "adyen" },
+    { "name": "Bitpanda", "ats": "greenhouse", "token": "bitpanda", "region": "eu" },
+    { "name": "Mollie", "ats": "ashby", "token": "mollie" },
+    { "name": "Bitvavo", "ats": "ashby", "token": "bitvavo" },
+    { "name": "Mondu", "ats": "workable", "token": "mondu" }
+  ]
+}
