@@ -1,11 +1,165 @@
 {
-  "N26": [],
+  "N26": [
+    "greenhouse-n26-7140058",
+    "greenhouse-n26-7668144"
+  ],
   "Trade Republic": [],
   "SumUp": [
-    "greenhouse-sumup-8559523002"
+    "greenhouse-sumup-8426778002",
+    "greenhouse-sumup-8559523002",
+    "greenhouse-sumup-8602383002"
   ],
-  "Adyen": [],
+  "Adyen": [
+    "greenhouse-adyen-7768821",
+    "greenhouse-adyen-7862254",
+    "greenhouse-adyen-7899156"
+  ],
   "Mollie": [],
   "Bitvavo": [],
-  "Mondu": []
+  "Mondu": [],
+  "Bitpanda": [
+    "greenhouse-bitpanda-4814046101",
+    "greenhouse-bitpanda-4818510101",
+    "greenhouse-bitpanda-4896130101",
+    "greenhouse-bitpanda-4896659101",
+    "greenhouse-bitpanda-4898110101"
+  ],
+  "Staffbase": [
+    "greenhouse-staffbase-8605278002",
+    "greenhouse-staffbase-8605813002",
+    "greenhouse-staffbase-8605815002"
+  ],
+  "DEPT": [
+    "greenhouse-dept-7457958",
+    "greenhouse-dept-7757950",
+    "greenhouse-dept-7875707",
+    "greenhouse-dept-7894020",
+    "greenhouse-dept-7957564",
+    "greenhouse-dept-7983372",
+    "greenhouse-dept-7984810",
+    "greenhouse-dept-7985951",
+    "greenhouse-dept-7988061",
+    "greenhouse-dept-7988463",
+    "greenhouse-dept-8003076",
+    "greenhouse-dept-8003091",
+    "greenhouse-dept-8020796",
+    "greenhouse-dept-8021039",
+    "greenhouse-dept-8021119",
+    "greenhouse-dept-8038528",
+    "greenhouse-dept-8044538",
+    "greenhouse-dept-8044948"
+  ],
+  "bol": [],
+  "Databricks": [
+    "greenhouse-databricks-7649409002",
+    "greenhouse-databricks-7649411002",
+    "greenhouse-databricks-8186386002",
+    "greenhouse-databricks-8394060002"
+  ],
+  "n8n": [
+    "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
+    "ashby-n8n-42e72645-d99a-4545-97b7-53ba3a699893",
+    "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
+  ],
+  "Miro": [],
+  "Rasa": [],
+  "Ostrom": [
+    "ashby-Ostrom-e0b70a00-f2ac-4d05-b5ad-e25a685bcae2"
+  ],
+  "AutoScout24": [
+    "greenhouse-autoscout24-7753084003",
+    "greenhouse-autoscout24-7773027003"
+  ],
+  "Scout24": [],
+  "Atolls": [],
+  "Nebius": [
+    "greenhouse-nebius-4711796101",
+    "greenhouse-nebius-4719724101",
+    "greenhouse-nebius-4737052101",
+    "greenhouse-nebius-4822364101",
+    "greenhouse-nebius-4849763101",
+    "greenhouse-nebius-4849774101",
+    "greenhouse-nebius-4850125101",
+    "greenhouse-nebius-4850132101",
+    "greenhouse-nebius-4866726101",
+    "greenhouse-nebius-4897805101",
+    "greenhouse-nebius-4907631101",
+    "greenhouse-nebius-4907634101"
+  ],
+  "Kayak": [
+    "ashby-kayak-a3a07056-2d7c-4827-9fc9-4c8f7b0bb6dd"
+  ],
+  "Enmacc": [
+    "greenhouse-enmacc-4687659101"
+  ],
+  "Hawk AI": [
+    "ashby-hawk-daafe5d7-1b35-43db-a3ed-030067054b20"
+  ],
+  "GetYourGuide": [
+    "greenhouse-getyourguide-7552392",
+    "greenhouse-getyourguide-7559680",
+    "greenhouse-getyourguide-7657103",
+    "greenhouse-getyourguide-7837878",
+    "greenhouse-getyourguide-7865219",
+    "greenhouse-getyourguide-7887400",
+    "greenhouse-getyourguide-7965807",
+    "greenhouse-getyourguide-8016362"
+  ],
+  "Contentful": [],
+  "Celonis": [
+    "greenhouse-celonis-7788415003"
+  ],
+  "Ashby": [
+    "ashby-ashby-0f538da6-1e06-43f0-86cb-de8007814284",
+    "ashby-ashby-188cc71b-a625-4022-94dc-7c43fa1a8b06",
+    "ashby-ashby-2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
+    "ashby-ashby-85713f4a-ad14-4edd-8c56-0065f5897551",
+    "ashby-ashby-87b96eef-edc1-4de4-adb6-d460126d02f8",
+    "ashby-ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
+    "ashby-ashby-cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
+    "ashby-ashby-f40ef345-82a8-4956-9150-193b4fdf8183",
+    "ashby-ashby-fd86edd7-3af0-4977-a61a-215212c296fa",
+    "ashby-ashby-fe121451-d328-43c9-a1ac-89e19b973a95"
+  ],
+  "ING": [
+    "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern--MBO-HBO-_REQ-10115337",
+    "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Producer-Intern--MBO-HBO-_REQ-10115338",
+    "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1"
+  ],
+  "PwC Deutschland": [
+    "workday-pwc-/job/Amsterdam/Product-Owner-Cloud-Solutions_735376WD-2",
+    "workday-pwc-/job/Amsterdam/Senior-Associate---Workforce-Design_737802WD",
+    "workday-pwc-/job/Org-designer_689129WD"
+  ],
+  "Zalando": [
+    "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
+    "workday-zalando-/job/Berlin/Principal-Product-Designer---Strategic-Discovery--all-genders-_2724132-1",
+    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1"
+  ],
+  "Bosch Digital": [],
+  "Delivery Hero": [
+    "smartrecruiters-DeliveryHero-744000127234375",
+    "smartrecruiters-DeliveryHero-744000129907750",
+    "smartrecruiters-DeliveryHero-744000131061324",
+    "smartrecruiters-DeliveryHero-744000132669539",
+    "smartrecruiters-DeliveryHero-744000132843969",
+    "smartrecruiters-DeliveryHero-744000132857712",
+    "smartrecruiters-DeliveryHero-744000132868997",
+    "smartrecruiters-DeliveryHero-744000133008245",
+    "smartrecruiters-DeliveryHero-744000134196930",
+    "smartrecruiters-DeliveryHero-744000134794614",
+    "smartrecruiters-DeliveryHero-744000135054074",
+    "smartrecruiters-DeliveryHero-744000135442609",
+    "smartrecruiters-DeliveryHero-744000135450259",
+    "smartrecruiters-DeliveryHero-744000135530649"
+  ],
+  "Omio": [],
+  "SIXT": [
+    "smartrecruiters-SIXT-744000129494095",
+    "smartrecruiters-SIXT-744000132896198",
+    "smartrecruiters-SIXT-744000135061904",
+    "smartrecruiters-SIXT-744000135516909",
+    "smartrecruiters-SIXT-744000135708104",
+    "smartrecruiters-SIXT-744000135711989"
+  ]
 }
