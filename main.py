@@ -71,10 +71,76 @@ def fetch_workable(company):
     return jobs
 
 
+def fetch_workday(company):
+    tenant = company["tenant"]
+    wd_host = company["wd_host"]
+    site = company["site"]
+    base = f"https://{tenant}.{wd_host}.myworkdayjobs.com"
+    jobs = []
+    offset = 0
+    limit = 20  # Workday rejects larger page sizes with HTTP 400
+    while True:
+        r = requests.post(
+            f"{base}/wday/cxs/{tenant}/{site}/jobs",
+            json={"limit": limit, "offset": offset, "searchText": ""},
+            timeout=TIMEOUT,
+            headers=HEADERS,
+        )
+        r.raise_for_status()
+        data = r.json()
+        postings = data.get("jobPostings", [])
+        for j in postings:
+            path = j.get("externalPath", "")
+            jobs.append({
+                "id": f"workday-{tenant}-{path}",
+                "title": j.get("title", ""),
+                "location": j.get("locationsText", ""),
+                "url": f"{base}/en-US/{site}{path}",
+            })
+        offset += limit
+        if not postings or offset >= data.get("total", 0):
+            break
+    return jobs
+
+
+def fetch_smartrecruiters(company):
+    company_id = company["token"]
+    jobs = []
+    offset = 0
+    limit = 100  # API caps results per page at 100 regardless of requested limit
+    while True:
+        r = requests.get(
+            f"https://api.smartrecruiters.com/v1/companies/{company_id}/postings",
+            params={"limit": limit, "offset": offset},
+            timeout=TIMEOUT,
+            headers=HEADERS,
+        )
+        r.raise_for_status()
+        data = r.json()
+        postings = data.get("content", [])
+        for j in postings:
+            loc = j.get("location", {})
+            location = ", ".join(
+                x for x in [loc.get("city"), loc.get("region"), loc.get("country")] if x
+            )
+            jobs.append({
+                "id": f"smartrecruiters-{company_id}-{j['id']}",
+                "title": j.get("name", ""),
+                "location": location,
+                "url": f"https://jobs.smartrecruiters.com/{company_id}/{j['id']}",
+            })
+        offset += limit
+        if not postings or offset >= data.get("totalFound", 0):
+            break
+    return jobs
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
     "workable": fetch_workable,
+    "workday": fetch_workday,
+    "smartrecruiters": fetch_smartrecruiters,
 }
 
 

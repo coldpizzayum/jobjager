@@ -55,6 +55,13 @@
     { "name": "GetYourGuide", "ats": "greenhouse", "token": "getyourguide" },
     { "name": "Contentful", "ats": "greenhouse", "token": "contentful" },
     { "name": "Celonis", "ats": "greenhouse", "token": "celonis" },
-    { "name": "Ashby", "ats": "ashby", "token": "ashby" }
+    { "name": "Ashby", "ats": "ashby", "token": "ashby" },
+    { "name": "ING", "ats": "workday", "tenant": "ing", "wd_host": "wd3", "site": "ICSGBLCOR" },
+    { "name": "PwC Deutschland", "ats": "workday", "tenant": "pwc", "wd_host": "wd3", "site": "Global_Experienced_Careers" },
+    { "name": "Zalando", "ats": "workday", "tenant": "zalando", "wd_host": "wd3", "site": "ZalandoSiteWD" },
+    { "name": "Bosch Digital", "ats": "smartrecruiters", "token": "BoschGroup" },
+    { "name": "Delivery Hero", "ats": "smartrecruiters", "token": "DeliveryHero" },
+    { "name": "Omio", "ats": "smartrecruiters", "token": "Omio" },
+    { "name": "SIXT", "ats": "smartrecruiters", "token": "SIXT" }
   ]
 }
