@@ -282,6 +282,8 @@ def main():
         print(f"Sent {total} new job(s) across {len(new_by_company)} company(ies).")
     else:
         print("No new jobs.")
+        if os.environ.get("NOTIFY_NO_NEW"):
+            send_telegram(f"✅ 已完成抓取,目前沒有新職缺(共檢查 {len(config['companies'])} 家公司)")
 
     if warnings:
         send_telegram("⚠️ 機器人警告:\n" + "\n".join(warnings))
