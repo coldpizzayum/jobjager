@@ -1,0 +1,7 @@
+name = "job-alert-bot-webhook"
+main = "src/index.js"
+compatibility_date = "2026-07-06"
+
+[vars]
+GITHUB_REPO = "coldpizzayum/jobjager"
+WORKFLOW_FILE = "check.yml"
