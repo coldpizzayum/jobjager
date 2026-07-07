@@ -9,11 +9,14 @@
     "greenhouse-sumup-8602383002"
   ],
   "Adyen": [
+    "greenhouse-adyen-7610701",
     "greenhouse-adyen-7768821",
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156"
   ],
-  "Mollie": [],
+  "Mollie": [
+    "ashby-mollie-6fc5d10c-a8b3-4751-a40c-6f66e9074dcf"
+  ],
   "Bitvavo": [],
   "Mondu": [],
   "Bitpanda": [
@@ -31,7 +34,6 @@
   "DEPT": [
     "greenhouse-dept-7457958",
     "greenhouse-dept-7757950",
-    "greenhouse-dept-7875707",
     "greenhouse-dept-7894020",
     "greenhouse-dept-7957564",
     "greenhouse-dept-7983372",
@@ -39,7 +41,6 @@
     "greenhouse-dept-7985951",
     "greenhouse-dept-7988061",
     "greenhouse-dept-7988463",
-    "greenhouse-dept-8003076",
     "greenhouse-dept-8003091",
     "greenhouse-dept-8020796",
     "greenhouse-dept-8021039",
@@ -127,7 +128,8 @@
   "ING": [
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern--MBO-HBO-_REQ-10115337",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Producer-Intern--MBO-HBO-_REQ-10115338",
-    "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1"
+    "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1",
+    "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Manager---Customer-Insights_REQ-10112651-2"
   ],
   "PwC Deutschland": [
     "workday-pwc-/job/Amsterdam/Product-Owner-Cloud-Solutions_735376WD-2",
@@ -142,7 +144,6 @@
   "Bosch Digital": [],
   "Delivery Hero": [
     "smartrecruiters-DeliveryHero-744000127234375",
-    "smartrecruiters-DeliveryHero-744000129907750",
     "smartrecruiters-DeliveryHero-744000131061324",
     "smartrecruiters-DeliveryHero-744000132669539",
     "smartrecruiters-DeliveryHero-744000132843969",
@@ -163,6 +164,7 @@
     "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000135516909",
     "smartrecruiters-SIXT-744000135708104",
-    "smartrecruiters-SIXT-744000135711989"
+    "smartrecruiters-SIXT-744000135711989",
+    "smartrecruiters-SIXT-744000136183749"
   ]
 }
