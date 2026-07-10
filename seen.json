@@ -1,12 +1,12 @@
 {
   "N26": [
     "greenhouse-n26-7140058",
-    "greenhouse-n26-7861428",
-    "greenhouse-n26-8043854"
+    "greenhouse-n26-7861428"
   ],
   "Trade Republic": [],
   "SumUp": [
     "greenhouse-sumup-8426778002",
+    "greenhouse-sumup-8529498002",
     "greenhouse-sumup-8559523002",
     "greenhouse-sumup-8592596002",
     "greenhouse-sumup-8602383002"
@@ -22,7 +22,6 @@
   "Bitvavo": [],
   "Mondu": [],
   "Bitpanda": [
-    "greenhouse-bitpanda-4818510101",
     "greenhouse-bitpanda-4896130101",
     "greenhouse-bitpanda-4896659101",
     "greenhouse-bitpanda-4898110101"
@@ -34,7 +33,7 @@
   ],
   "DEPT": [
     "greenhouse-dept-7457958",
-    "greenhouse-dept-7757950",
+    "greenhouse-dept-7699467",
     "greenhouse-dept-7894020",
     "greenhouse-dept-7957564",
     "greenhouse-dept-7983372",
@@ -43,7 +42,6 @@
     "greenhouse-dept-7988061",
     "greenhouse-dept-7988463",
     "greenhouse-dept-8003091",
-    "greenhouse-dept-8020796",
     "greenhouse-dept-8021119",
     "greenhouse-dept-8023362",
     "greenhouse-dept-8028337",
@@ -110,7 +108,8 @@
   "Contentful": [],
   "Celonis": [
     "greenhouse-celonis-7788415003",
-    "greenhouse-celonis-7798592003"
+    "greenhouse-celonis-7798592003",
+    "greenhouse-celonis-7800851003"
   ],
   "Ashby": [
     "ashby-ashby-0f538da6-1e06-43f0-86cb-de8007814284",
@@ -153,7 +152,8 @@
     "smartrecruiters-DeliveryHero-744000135442609",
     "smartrecruiters-DeliveryHero-744000135450259",
     "smartrecruiters-DeliveryHero-744000135530649",
-    "smartrecruiters-DeliveryHero-744000136398419"
+    "smartrecruiters-DeliveryHero-744000136398419",
+    "smartrecruiters-DeliveryHero-744000137040588"
   ],
   "Omio": [],
   "SIXT": [
@@ -162,7 +162,6 @@
     "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000135516909",
     "smartrecruiters-SIXT-744000135708104",
-    "smartrecruiters-SIXT-744000135711989",
-    "smartrecruiters-SIXT-744000136183749"
+    "smartrecruiters-SIXT-744000135711989"
   ]
 }
