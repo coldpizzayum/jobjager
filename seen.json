@@ -16,6 +16,7 @@
     "greenhouse-adyen-7768821",
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156",
+    "greenhouse-adyen-7917260",
     "greenhouse-adyen-8045868"
   ],
   "Mollie": [],
@@ -42,6 +43,7 @@
     "greenhouse-dept-7988061",
     "greenhouse-dept-7988463",
     "greenhouse-dept-8003091",
+    "greenhouse-dept-8020796",
     "greenhouse-dept-8021039",
     "greenhouse-dept-8021119",
     "greenhouse-dept-8023362",
@@ -63,7 +65,9 @@
     "ashby-n8n-42e72645-d99a-4545-97b7-53ba3a699893",
     "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
   ],
-  "Miro": [],
+  "Miro": [
+    "ashby-miro-a0759393-fcf5-4b45-bf8e-e2dd8c2a450f"
+  ],
   "Rasa": [],
   "Ostrom": [],
   "AutoScout24": [
@@ -162,6 +166,6 @@
     "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000135516909",
     "smartrecruiters-SIXT-744000135708104",
-    "smartrecruiters-SIXT-744000135711989"
+    "smartrecruiters-SIXT-744000137470639"
   ]
 }
