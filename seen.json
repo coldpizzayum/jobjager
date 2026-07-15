@@ -46,12 +46,12 @@
     "greenhouse-dept-8020796",
     "greenhouse-dept-8021039",
     "greenhouse-dept-8021119",
-    "greenhouse-dept-8023362",
     "greenhouse-dept-8028337",
     "greenhouse-dept-8038528",
     "greenhouse-dept-8041505",
     "greenhouse-dept-8044538",
-    "greenhouse-dept-8044948"
+    "greenhouse-dept-8044948",
+    "greenhouse-dept-8064334"
   ],
   "bol": [],
   "Databricks": [
@@ -74,8 +74,7 @@
     "greenhouse-autoscout24-7596900003",
     "greenhouse-autoscout24-7597516003",
     "greenhouse-autoscout24-7753084003",
-    "greenhouse-autoscout24-7773011003",
-    "greenhouse-autoscout24-7773027003"
+    "greenhouse-autoscout24-7773011003"
   ],
   "Scout24": [],
   "Atolls": [],
@@ -98,9 +97,7 @@
     "ashby-kayak-a3a07056-2d7c-4827-9fc9-4c8f7b0bb6dd"
   ],
   "Enmacc": [],
-  "Hawk AI": [
-    "ashby-hawk-daafe5d7-1b35-43db-a3ed-030067054b20"
-  ],
+  "Hawk AI": [],
   "GetYourGuide": [
     "greenhouse-getyourguide-7552392",
     "greenhouse-getyourguide-7559680",
@@ -130,6 +127,7 @@
   "ING": [
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern--MBO-HBO-_REQ-10115337",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Producer-Intern--MBO-HBO-_REQ-10115338",
+    "workday-ing-/job/ACT-Amsterdam---Acanthus/Internship-Brand---Social-Media--Creative_REQ-10118234",
     "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1"
   ],
   "PwC Deutschland": [
@@ -140,7 +138,6 @@
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Strategic-Discovery--all-genders-_2724132-1",
-    "workday-zalando-/job/Berlin/Senior-Graphic-Designer--all-genders----Lounge-by-Zalando_2724460-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1"
   ],
   "Bosch Digital": [],
@@ -156,8 +153,7 @@
     "smartrecruiters-DeliveryHero-744000135442609",
     "smartrecruiters-DeliveryHero-744000135450259",
     "smartrecruiters-DeliveryHero-744000135530649",
-    "smartrecruiters-DeliveryHero-744000136398419",
-    "smartrecruiters-DeliveryHero-744000137040588"
+    "smartrecruiters-DeliveryHero-744000136398419"
   ],
   "Omio": [],
   "SIXT": [
@@ -165,7 +161,7 @@
     "smartrecruiters-SIXT-744000132896198",
     "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000135516909",
-    "smartrecruiters-SIXT-744000135708104",
-    "smartrecruiters-SIXT-744000137470639"
+    "smartrecruiters-SIXT-744000137470639",
+    "smartrecruiters-SIXT-744000137686353"
   ]
 }
