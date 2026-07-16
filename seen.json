@@ -24,7 +24,6 @@
   "Mondu": [],
   "Bitpanda": [
     "greenhouse-bitpanda-4896130101",
-    "greenhouse-bitpanda-4896659101",
     "greenhouse-bitpanda-4898110101"
   ],
   "Staffbase": [
@@ -80,7 +79,6 @@
   "Atolls": [],
   "Nebius": [
     "greenhouse-nebius-4711796101",
-    "greenhouse-nebius-4719724101",
     "greenhouse-nebius-4737052101",
     "greenhouse-nebius-4822364101",
     "greenhouse-nebius-4849763101",
@@ -90,7 +88,8 @@
     "greenhouse-nebius-4897805101",
     "greenhouse-nebius-4907631101",
     "greenhouse-nebius-4907634101",
-    "greenhouse-nebius-4919123101"
+    "greenhouse-nebius-4919123101",
+    "greenhouse-nebius-4921994101"
   ],
   "Kayak": [
     "ashby-kayak-2cd07dbe-2b1a-44c3-bd65-3d41d60f4885",
@@ -128,6 +127,7 @@
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern--MBO-HBO-_REQ-10115337",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Producer-Intern--MBO-HBO-_REQ-10115338",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Internship-Brand---Social-Media--Creative_REQ-10118234",
+    "workday-ing-/job/CDR-Amsterdam---Cedar/Senior-Product-Manager-WB-Advanced-Analytics-and-Artifical-Intelligence_REQ-10116750-3",
     "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1"
   ],
   "PwC Deutschland": [
@@ -138,7 +138,9 @@
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Strategic-Discovery--all-genders-_2724132-1",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1"
+    "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
+    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1",
+    "workday-zalando-/job/Berlin/Senior-Product-Designer---Propositions--all-genders-_2724505-1"
   ],
   "Bosch Digital": [],
   "Delivery Hero": [
@@ -162,6 +164,7 @@
     "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000135516909",
     "smartrecruiters-SIXT-744000137470639",
-    "smartrecruiters-SIXT-744000137686353"
+    "smartrecruiters-SIXT-744000137686353",
+    "smartrecruiters-SIXT-744000137965259"
   ]
 }
