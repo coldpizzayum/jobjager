@@ -1,7 +1,6 @@
 {
   "N26": [
-    "greenhouse-n26-7140058",
-    "greenhouse-n26-7861428"
+    "greenhouse-n26-7140058"
   ],
   "Trade Republic": [],
   "SumUp": [
@@ -17,7 +16,8 @@
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156",
     "greenhouse-adyen-7917260",
-    "greenhouse-adyen-8045868"
+    "greenhouse-adyen-8045868",
+    "greenhouse-adyen-8060230"
   ],
   "Mollie": [],
   "Bitvavo": [],
@@ -47,9 +47,9 @@
     "greenhouse-dept-8021119",
     "greenhouse-dept-8028337",
     "greenhouse-dept-8038528",
-    "greenhouse-dept-8041505",
     "greenhouse-dept-8044538",
     "greenhouse-dept-8044948",
+    "greenhouse-dept-8059565",
     "greenhouse-dept-8064334"
   ],
   "bol": [],
@@ -80,6 +80,7 @@
   "Nebius": [
     "greenhouse-nebius-4711796101",
     "greenhouse-nebius-4737052101",
+    "greenhouse-nebius-4766823101",
     "greenhouse-nebius-4822364101",
     "greenhouse-nebius-4849763101",
     "greenhouse-nebius-4850125101",
@@ -124,8 +125,6 @@
     "ashby-ashby-fe121451-d328-43c9-a1ac-89e19b973a95"
   ],
   "ING": [
-    "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern--MBO-HBO-_REQ-10115337",
-    "workday-ing-/job/ACT-Amsterdam---Acanthus/Creative-Producer-Intern--MBO-HBO-_REQ-10115338",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Internship-Brand---Social-Media--Creative_REQ-10118234",
     "workday-ing-/job/CDR-Amsterdam---Cedar/Senior-Product-Manager-WB-Advanced-Analytics-and-Artifical-Intelligence_REQ-10116750-3",
     "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1"
