@@ -12,7 +12,8 @@
     "greenhouse-sumup-8559523002",
     "greenhouse-sumup-8602383002",
     "greenhouse-sumup-8630991002",
-    "greenhouse-sumup-8637380002"
+    "greenhouse-sumup-8637380002",
+    "greenhouse-sumup-8644926002"
   ],
   "Adyen": [
     "greenhouse-adyen-7471397",
@@ -28,6 +29,7 @@
   "Mondu": [],
   "Bitpanda": [
     "greenhouse-bitpanda-4896130101",
+    "greenhouse-bitpanda-4905681101",
     "greenhouse-bitpanda-4930651101"
   ],
   "Staffbase": [
@@ -148,23 +150,21 @@
   "Delivery Hero": [
     "smartrecruiters-DeliveryHero-744000131061324",
     "smartrecruiters-DeliveryHero-744000132868997",
-    "smartrecruiters-DeliveryHero-744000134196930",
     "smartrecruiters-DeliveryHero-744000134794614",
     "smartrecruiters-DeliveryHero-744000135450259",
     "smartrecruiters-DeliveryHero-744000135530649",
     "smartrecruiters-DeliveryHero-744000136398419",
     "smartrecruiters-DeliveryHero-744000138833829",
     "smartrecruiters-DeliveryHero-744000140242439",
-    "smartrecruiters-DeliveryHero-744000141288489"
+    "smartrecruiters-DeliveryHero-744000141504094"
   ],
   "Omio": [],
   "SIXT": [
     "smartrecruiters-SIXT-744000132896198",
-    "smartrecruiters-SIXT-744000135061904",
     "smartrecruiters-SIXT-744000137686353",
     "smartrecruiters-SIXT-744000139247889",
     "smartrecruiters-SIXT-744000140390399",
     "smartrecruiters-SIXT-744000140426769",
-    "smartrecruiters-SIXT-744000141416519"
+    "smartrecruiters-SIXT-744000141644180"
   ]
 }
