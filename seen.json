@@ -1,8 +1,6 @@
 {
   "N26": [
-    "greenhouse-n26-7140058",
     "greenhouse-n26-7668142",
-    "greenhouse-n26-7668144",
     "greenhouse-n26-7996650",
     "greenhouse-n26-8043854",
     "greenhouse-n26-8079658",
@@ -12,7 +10,6 @@
   "SumUp": [
     "greenhouse-sumup-8426778002",
     "greenhouse-sumup-8529498002",
-    "greenhouse-sumup-8559523002",
     "greenhouse-sumup-8602383002",
     "greenhouse-sumup-8630991002",
     "greenhouse-sumup-8637380002",
@@ -24,6 +21,7 @@
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156",
     "greenhouse-adyen-7899158",
+    "greenhouse-adyen-8018202",
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8090506"
@@ -33,7 +31,6 @@
   "Mondu": [],
   "Bitpanda": [
     "greenhouse-bitpanda-4896130101",
-    "greenhouse-bitpanda-4905681101",
     "greenhouse-bitpanda-4930651101"
   ],
   "Staffbase": [
@@ -140,6 +137,7 @@
   ],
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
+    "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Pricing-Product--all-genders-_2724685-1",
     "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
@@ -147,6 +145,7 @@
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer---Propositions--all-genders-_2724505-1",
+    "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer_2724858-1"
   ],
   "Bosch Digital": [],
