@@ -20,7 +20,6 @@
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156",
     "greenhouse-adyen-7899158",
-    "greenhouse-adyen-8018202",
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8090506"
@@ -53,7 +52,8 @@
     "greenhouse-dept-8064334",
     "greenhouse-dept-8090714",
     "greenhouse-dept-8102928",
-    "greenhouse-dept-8110118"
+    "greenhouse-dept-8110118",
+    "greenhouse-dept-8130022"
   ],
   "bol": [],
   "Databricks": [
@@ -156,8 +156,7 @@
     "smartrecruiters-DeliveryHero-744000140242439",
     "smartrecruiters-DeliveryHero-744000141504094",
     "smartrecruiters-DeliveryHero-744000141866625",
-    "smartrecruiters-DeliveryHero-744000142597484",
-    "smartrecruiters-DeliveryHero-744000142605799"
+    "smartrecruiters-DeliveryHero-744000142597484"
   ],
   "Omio": [],
   "SIXT": [
