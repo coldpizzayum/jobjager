@@ -64,8 +64,8 @@
   "n8n": [
     "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
     "ashby-n8n-42e72645-d99a-4545-97b7-53ba3a699893",
-    "ashby-n8n-bcf96878-d41a-479d-b506-7753356077c4",
     "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
+    "ashby-n8n-eee6e2dc-c565-4cef-adee-a054b59b1c28",
     "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
   ],
   "Miro": [
@@ -75,7 +75,6 @@
   "Ostrom": [],
   "AutoScout24": [
     "greenhouse-autoscout24-7596900003",
-    "greenhouse-autoscout24-7753084003",
     "greenhouse-autoscout24-7773011003",
     "greenhouse-autoscout24-7834698003"
   ],
@@ -93,6 +92,7 @@
     "greenhouse-nebius-4907634101",
     "greenhouse-nebius-4919123101",
     "greenhouse-nebius-4921994101",
+    "greenhouse-nebius-4945631101",
     "greenhouse-nebius-4947828101"
   ],
   "Kayak": [
@@ -142,7 +142,8 @@
     "workday-zalando-/job/Berlin/Senior-Creative-Operations-Manager--all-genders----Lounge-by-Zalando_2724397-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
-    "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1"
+    "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
+    "workday-zalando-/job/Berlin/Senior-Product-Manager---ZEOS-Tech-Compliance--all-genders-_2724974-1"
   ],
   "Bosch Digital": [],
   "Delivery Hero": [
