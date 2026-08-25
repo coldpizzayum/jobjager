@@ -30,10 +30,10 @@
   "Bitvavo": [],
   "Mondu": [],
   "Bitpanda": [
-    "greenhouse-bitpanda-4896130101",
     "greenhouse-bitpanda-4930651101",
     "greenhouse-bitpanda-4954725101",
-    "greenhouse-bitpanda-4954936101"
+    "greenhouse-bitpanda-4954936101",
+    "greenhouse-bitpanda-4959025101"
   ],
   "Staffbase": [
     "greenhouse-staffbase-8605278002",
@@ -72,9 +72,7 @@
     "ashby-n8n-eee6e2dc-c565-4cef-adee-a054b59b1c28",
     "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
   ],
-  "Miro": [
-    "ashby-miro-a0759393-fcf5-4b45-bf8e-e2dd8c2a450f"
-  ],
+  "Miro": [],
   "Rasa": [],
   "Ostrom": [],
   "AutoScout24": [
@@ -96,7 +94,8 @@
     "greenhouse-nebius-4919123101",
     "greenhouse-nebius-4921994101",
     "greenhouse-nebius-4945631101",
-    "greenhouse-nebius-4947828101"
+    "greenhouse-nebius-4947828101",
+    "greenhouse-nebius-4955928101"
   ],
   "Kayak": [
     "ashby-kayak-0f1404b0-f789-4b46-8f8d-aee5530b811f",
@@ -130,6 +129,7 @@
     "ashby-ashby-fd86edd7-3af0-4977-a61a-215212c296fa"
   ],
   "ING": [
+    "workday-ing-/job/CDR-Amsterdam---Cedar/Senior-Product-Manager-WB-Advanced-Analytics-and-Artifical-Intelligence_REQ-10116750-3",
     "workday-ing-/job/HBP-Amsterdam---Haarlerbergpark/Intern-UX---Design---Communication_REQ-10120056"
   ],
   "PwC Deutschland": [
@@ -139,6 +139,7 @@
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
+    "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Pricing-Product--all-genders-_2724685-1",
     "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
     "workday-zalando-/job/Berlin/Senior-Graphic-Designer--all-genders----Lounge-by-Zalando_2724460-1",
@@ -168,6 +169,7 @@
     "smartrecruiters-SIXT-744000139247889",
     "smartrecruiters-SIXT-744000140426769",
     "smartrecruiters-SIXT-744000141644180",
-    "smartrecruiters-SIXT-744000144608969"
+    "smartrecruiters-SIXT-744000144608969",
+    "smartrecruiters-SIXT-744000145259465"
   ]
 }
