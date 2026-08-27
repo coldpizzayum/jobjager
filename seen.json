@@ -2,7 +2,8 @@
   "N26": [
     "greenhouse-n26-7996650",
     "greenhouse-n26-8079658",
-    "greenhouse-n26-8105374"
+    "greenhouse-n26-8105374",
+    "greenhouse-n26-8141402"
   ],
   "Trade Republic": [],
   "SumUp": [
@@ -12,10 +13,11 @@
     "greenhouse-sumup-8615894002",
     "greenhouse-sumup-8630991002",
     "greenhouse-sumup-8637380002",
-    "greenhouse-sumup-8644926002"
+    "greenhouse-sumup-8644926002",
+    "greenhouse-sumup-8690943002",
+    "greenhouse-sumup-8750436002"
   ],
   "Adyen": [
-    "greenhouse-adyen-7471397",
     "greenhouse-adyen-7768821",
     "greenhouse-adyen-7862254",
     "greenhouse-adyen-7899156",
@@ -71,13 +73,15 @@
     "ashby-n8n-eee6e2dc-c565-4cef-adee-a054b59b1c28",
     "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
   ],
-  "Miro": [],
+  "Miro": [
+    "ashby-miro-11f67f76-6dee-46df-b8b6-754052a00344"
+  ],
   "Rasa": [],
   "Ostrom": [],
   "AutoScout24": [
     "greenhouse-autoscout24-7596900003",
-    "greenhouse-autoscout24-7773011003",
-    "greenhouse-autoscout24-7834698003"
+    "greenhouse-autoscout24-7834698003",
+    "greenhouse-autoscout24-7977878003"
   ],
   "Scout24": [],
   "Atolls": [],
@@ -93,7 +97,6 @@
     "greenhouse-nebius-4919123101",
     "greenhouse-nebius-4921994101",
     "greenhouse-nebius-4945631101",
-    "greenhouse-nebius-4947828101",
     "greenhouse-nebius-4955928101",
     "greenhouse-nebius-4957416101"
   ],
@@ -110,7 +113,9 @@
     "greenhouse-getyourguide-7649294",
     "greenhouse-getyourguide-7657103",
     "greenhouse-getyourguide-7865219",
-    "greenhouse-getyourguide-8152695"
+    "greenhouse-getyourguide-8152695",
+    "greenhouse-getyourguide-8156719",
+    "greenhouse-getyourguide-8158781"
   ],
   "Contentful": [],
   "Celonis": [
@@ -143,7 +148,6 @@
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Pricing-Product--all-genders-_2724685-1",
     "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
-    "workday-zalando-/job/Berlin/Senior-Graphic-Designer--all-genders----Lounge-by-Zalando_2724460-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
@@ -168,8 +172,8 @@
     "smartrecruiters-SIXT-744000132896198",
     "smartrecruiters-SIXT-744000139247889",
     "smartrecruiters-SIXT-744000140426769",
-    "smartrecruiters-SIXT-744000141644180",
     "smartrecruiters-SIXT-744000144608969",
-    "smartrecruiters-SIXT-744000145259465"
+    "smartrecruiters-SIXT-744000145259465",
+    "smartrecruiters-SIXT-744000145738348"
   ]
 }
