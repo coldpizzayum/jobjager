@@ -1,8 +1,10 @@
 {
   "N26": [
     "greenhouse-n26-7649873",
+    "greenhouse-n26-7668144",
     "greenhouse-n26-7996650",
     "greenhouse-n26-8023311",
+    "greenhouse-n26-8028183",
     "greenhouse-n26-8159268"
   ],
   "Trade Republic": [],
@@ -34,7 +36,9 @@
     "greenhouse-bitpanda-4954936101",
     "greenhouse-bitpanda-4959025101"
   ],
-  "Staffbase": [],
+  "Staffbase": [
+    "greenhouse-staffbase-8801146002"
+  ],
   "DEPT": [
     "greenhouse-dept-7981965",
     "greenhouse-dept-7983372",
@@ -55,7 +59,6 @@
   ],
   "n8n": [
     "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
-    "ashby-n8n-98d8bc2f-ee58-4732-8977-61a761aac8b0",
     "ashby-n8n-bcf96878-d41a-479d-b506-7753356077c4",
     "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
     "ashby-n8n-eee6e2dc-c565-4cef-adee-a054b59b1c28",
@@ -118,6 +121,7 @@
     "ashby-ashby-07201b7e-a581-46a6-bbd3-432824bd761f",
     "ashby-ashby-188cc71b-a625-4022-94dc-7c43fa1a8b06",
     "ashby-ashby-2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
+    "ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
     "ashby-ashby-85713f4a-ad14-4edd-8c56-0065f5897551",
     "ashby-ashby-87b96eef-edc1-4de4-adb6-d460126d02f8",
     "ashby-ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
@@ -141,7 +145,6 @@
     "workday-zalando-/job/Berlin/Senior-Creative-Producer--Social-Media--all-genders-_2725443-1",
     "workday-zalando-/job/Berlin/Senior-Creative-Strategist---Lounge-by-Zalando--all-genders-_2725512-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Platform-and-Tracking--all-genders-_2725294-3",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
