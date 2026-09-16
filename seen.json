@@ -1,11 +1,8 @@
 {
   "N26": [
-    "greenhouse-n26-7649873",
     "greenhouse-n26-7668144",
     "greenhouse-n26-7996650",
-    "greenhouse-n26-8023311",
-    "greenhouse-n26-8028183",
-    "greenhouse-n26-8159268"
+    "greenhouse-n26-8028183"
   ],
   "Trade Republic": [],
   "SumUp": [
@@ -24,7 +21,8 @@
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8090506",
     "greenhouse-adyen-8137746",
-    "greenhouse-adyen-8158550"
+    "greenhouse-adyen-8158550",
+    "greenhouse-adyen-8164042"
   ],
   "Mollie": [],
   "Bitvavo": [],
@@ -80,8 +78,6 @@
   ],
   "Nebius": [
     "greenhouse-nebius-4711796101",
-    "greenhouse-nebius-4737052101",
-    "greenhouse-nebius-4766823101",
     "greenhouse-nebius-4774875101",
     "greenhouse-nebius-4850125101",
     "greenhouse-nebius-4850132101",
@@ -144,7 +140,6 @@
     "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
     "workday-zalando-/job/Berlin/Senior-Creative-Producer--Social-Media--all-genders-_2725443-1",
     "workday-zalando-/job/Berlin/Senior-Creative-Strategist---Lounge-by-Zalando--all-genders-_2725512-1",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Client-Foundations-Core-Capabilities--all-genders-_2723182-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
@@ -154,16 +149,14 @@
   "Delivery Hero": [
     "smartrecruiters-DeliveryHero-744000141504094",
     "smartrecruiters-DeliveryHero-744000144005216",
-    "smartrecruiters-DeliveryHero-744000144256779",
     "smartrecruiters-DeliveryHero-744000147869999",
     "smartrecruiters-DeliveryHero-744000148478509"
   ],
   "Omio": [],
   "SIXT": [
-    "smartrecruiters-SIXT-744000145259465",
-    "smartrecruiters-SIXT-744000145738348",
     "smartrecruiters-SIXT-744000146163966",
     "smartrecruiters-SIXT-744000146495886",
-    "smartrecruiters-SIXT-744000149511919"
+    "smartrecruiters-SIXT-744000149511919",
+    "smartrecruiters-SIXT-744000149795719"
   ]
 }
