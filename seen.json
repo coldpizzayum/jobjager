@@ -19,8 +19,7 @@
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8090506",
-    "greenhouse-adyen-8137746",
-    "greenhouse-adyen-8164042"
+    "greenhouse-adyen-8137746"
   ],
   "Mollie": [],
   "Bitvavo": [],
@@ -28,7 +27,6 @@
   "Bitpanda": [
     "greenhouse-bitpanda-4898110101",
     "greenhouse-bitpanda-4930651101",
-    "greenhouse-bitpanda-4954725101",
     "greenhouse-bitpanda-4954936101",
     "greenhouse-bitpanda-4959025101"
   ],
@@ -90,7 +88,8 @@
     "greenhouse-nebius-4957416101",
     "greenhouse-nebius-4967692101",
     "greenhouse-nebius-4970709101",
-    "greenhouse-nebius-4971190101"
+    "greenhouse-nebius-4971190101",
+    "greenhouse-nebius-4974072101"
   ],
   "Kayak": [
     "ashby-kayak-28686d98-f30e-422a-a5d9-c8680eff24b6"
@@ -109,8 +108,6 @@
   ],
   "Contentful": [],
   "Celonis": [
-    "greenhouse-celonis-7799733003",
-    "greenhouse-celonis-7856976003",
     "greenhouse-celonis-7984249003"
   ],
   "Ashby": [
@@ -136,9 +133,9 @@
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
+    "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
     "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
     "workday-zalando-/job/Berlin/Senior-Creative-Strategist---Lounge-by-Zalando--all-genders-_2725512-1",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Propositions--all-genders-_2725434-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
