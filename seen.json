@@ -27,8 +27,7 @@
   "Bitpanda": [
     "greenhouse-bitpanda-4898110101",
     "greenhouse-bitpanda-4930651101",
-    "greenhouse-bitpanda-4954936101",
-    "greenhouse-bitpanda-4959025101"
+    "greenhouse-bitpanda-4954936101"
   ],
   "Staffbase": [
     "greenhouse-staffbase-8801146002"
@@ -45,7 +44,8 @@
     "greenhouse-dept-8200507",
     "greenhouse-dept-8200508",
     "greenhouse-dept-8224009",
-    "greenhouse-dept-8236412"
+    "greenhouse-dept-8236412",
+    "greenhouse-dept-8245374"
   ],
   "bol": [],
   "Databricks": [
@@ -123,18 +123,16 @@
   ],
   "ING": [
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Data-Analyst-in-Experience-Design---CoE-Customer-Experience---Trust_REQ-10120106-3",
+    "workday-ing-/job/ACT-Amsterdam---Acanthus/Product-Manager--CJE----Global-Fraud-Management-Services_REQ-10121510-3",
     "workday-ing-/job/ACT-Amsterdam---Acanthus/Senior-Product-Manager---Digital-Investment-Products_REQ-10121019-2"
   ],
-  "PwC Deutschland": [
-    "workday-pwc-/job/Amsterdam/Senior-Associate---Workforce-Design_737802WD"
-  ],
+  "PwC Deutschland": [],
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Loyalty--all-genders----parental-leave-cover_2724358",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
-    "workday-zalando-/job/Berlin/Product-Design-Manager---Partner-Tech--all-genders--parental-leave-cover_2724885-1",
     "workday-zalando-/job/Berlin/Senior-Creative-Strategist---Lounge-by-Zalando--all-genders-_2725512-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
