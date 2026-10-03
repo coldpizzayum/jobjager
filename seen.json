@@ -53,11 +53,14 @@
   "Databricks": [
     "greenhouse-databricks-7649409002",
     "greenhouse-databricks-7649411002",
+    "greenhouse-databricks-8133727002",
+    "greenhouse-databricks-8145800002",
     "greenhouse-databricks-8186386002",
     "greenhouse-databricks-8394060002",
     "greenhouse-databricks-8831555002"
   ],
   "n8n": [
+    "ashby-n8n-10ad6075-8917-4812-af67-d83e25ac1031",
     "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
     "ashby-n8n-bcf96878-d41a-479d-b506-7753356077c4",
     "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
@@ -101,6 +104,7 @@
     "ashby-hawk-941e6f70-cf6f-4a7c-9845-958d99131ff3"
   ],
   "GetYourGuide": [
+    "greenhouse-getyourguide-7559680",
     "greenhouse-getyourguide-7649294",
     "greenhouse-getyourguide-7657103",
     "greenhouse-getyourguide-8152695",
@@ -134,7 +138,6 @@
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
-    "workday-zalando-/job/Berlin/Senior-Creative-Strategist---Lounge-by-Zalando--all-genders-_2725512-1",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Designer---ZEOS--all-genders-_2724262-1",
