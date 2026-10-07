@@ -15,11 +15,12 @@
   ],
   "Adyen": [
     "greenhouse-adyen-7862254",
-    "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8090506",
     "greenhouse-adyen-8137746",
-    "greenhouse-adyen-8164042"
+    "greenhouse-adyen-8164042",
+    "greenhouse-adyen-8242349",
+    "greenhouse-adyen-8258725"
   ],
   "Mollie": [],
   "Bitvavo": [],
@@ -44,10 +45,10 @@
     "greenhouse-dept-8110118",
     "greenhouse-dept-8200507",
     "greenhouse-dept-8200508",
-    "greenhouse-dept-8224009",
     "greenhouse-dept-8236412",
     "greenhouse-dept-8245374",
-    "greenhouse-dept-8256302"
+    "greenhouse-dept-8256302",
+    "greenhouse-dept-8261291"
   ],
   "bol": [],
   "Databricks": [
@@ -64,6 +65,7 @@
     "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
     "ashby-n8n-bcf96878-d41a-479d-b506-7753356077c4",
     "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
+    "ashby-n8n-eee6e2dc-c565-4cef-adee-a054b59b1c28",
     "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
   ],
   "Miro": [],
@@ -93,7 +95,9 @@
     "greenhouse-nebius-4967692101",
     "greenhouse-nebius-4970709101",
     "greenhouse-nebius-4971190101",
-    "greenhouse-nebius-4974072101"
+    "greenhouse-nebius-4974072101",
+    "greenhouse-nebius-4988457101",
+    "greenhouse-nebius-4988595101"
   ],
   "Kayak": [
     "ashby-kayak-28686d98-f30e-422a-a5d9-c8680eff24b6"
