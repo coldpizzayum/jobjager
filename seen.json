@@ -8,7 +8,9 @@
   "SumUp": [
     "greenhouse-sumup-8426778002",
     "greenhouse-sumup-8602383002",
-    "greenhouse-sumup-8630991002"
+    "greenhouse-sumup-8630991002",
+    "greenhouse-sumup-8637380002",
+    "greenhouse-sumup-8644926002"
   ],
   "Adyen": [
     "greenhouse-adyen-7862254",
@@ -16,6 +18,7 @@
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8137746",
     "greenhouse-adyen-8242349",
+    "greenhouse-adyen-8244728",
     "greenhouse-adyen-8258725",
     "greenhouse-adyen-8280713",
     "greenhouse-adyen-8281712"
@@ -34,7 +37,6 @@
   "DEPT": [
     "greenhouse-dept-7457958",
     "greenhouse-dept-7983372",
-    "greenhouse-dept-7984810",
     "greenhouse-dept-8028337",
     "greenhouse-dept-8090714",
     "greenhouse-dept-8102928",
@@ -45,7 +47,6 @@
     "greenhouse-dept-8245374",
     "greenhouse-dept-8256302",
     "greenhouse-dept-8261291",
-    "greenhouse-dept-8264143",
     "greenhouse-dept-8264339"
   ],
   "bol": [],
@@ -153,6 +154,7 @@
     "smartrecruiters-SIXT-744000150061719",
     "smartrecruiters-SIXT-744000155680830",
     "smartrecruiters-SIXT-744000155742689",
-    "smartrecruiters-SIXT-744000156319530"
+    "smartrecruiters-SIXT-744000156515379",
+    "smartrecruiters-SIXT-744000156604559"
   ]
 }
