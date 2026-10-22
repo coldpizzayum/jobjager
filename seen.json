@@ -1,7 +1,6 @@
 {
   "N26": [
     "greenhouse-n26-8023311",
-    "greenhouse-n26-8043854",
     "greenhouse-n26-8267143"
   ],
   "Trade Republic": [],
@@ -21,7 +20,8 @@
     "greenhouse-adyen-8244728",
     "greenhouse-adyen-8258725",
     "greenhouse-adyen-8280713",
-    "greenhouse-adyen-8281712"
+    "greenhouse-adyen-8281712",
+    "greenhouse-adyen-8302785"
   ],
   "Mollie": [],
   "Bitvavo": [],
@@ -29,7 +29,10 @@
   "Bitpanda": [
     "greenhouse-bitpanda-4930651101",
     "greenhouse-bitpanda-4954936101",
-    "greenhouse-bitpanda-4995550101"
+    "greenhouse-bitpanda-4995550101",
+    "greenhouse-bitpanda-5009824101",
+    "greenhouse-bitpanda-5009825101",
+    "greenhouse-bitpanda-5009827101"
   ],
   "Staffbase": [
     "greenhouse-staffbase-8899837002"
@@ -41,8 +44,6 @@
     "greenhouse-dept-8090714",
     "greenhouse-dept-8102928",
     "greenhouse-dept-8110118",
-    "greenhouse-dept-8200507",
-    "greenhouse-dept-8200508",
     "greenhouse-dept-8236412",
     "greenhouse-dept-8245374",
     "greenhouse-dept-8256302",
@@ -83,7 +84,6 @@
     "greenhouse-nebius-4850132101",
     "greenhouse-nebius-4897805101",
     "greenhouse-nebius-4907634101",
-    "greenhouse-nebius-4919123101",
     "greenhouse-nebius-4921994101",
     "greenhouse-nebius-4945631101",
     "greenhouse-nebius-4970709101",
@@ -120,8 +120,10 @@
     "ashby-ashby-188cc71b-a625-4022-94dc-7c43fa1a8b06",
     "ashby-ashby-2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
     "ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
+    "ashby-ashby-40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
     "ashby-ashby-85713f4a-ad14-4edd-8c56-0065f5897551",
     "ashby-ashby-87b96eef-edc1-4de4-adb6-d460126d02f8",
+    "ashby-ashby-9599c771-a837-462f-8e03-39d18be54a51",
     "ashby-ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
     "ashby-ashby-cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
     "ashby-ashby-f40ef345-82a8-4956-9150-193b4fdf8183",
