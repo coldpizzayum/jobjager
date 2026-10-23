@@ -23,12 +23,13 @@
     "greenhouse-adyen-8281712",
     "greenhouse-adyen-8302785"
   ],
-  "Mollie": [],
+  "Mollie": [
+    "ashby-mollie-9c3e0b6f-ce76-4bd7-9144-cabce7d5b555",
+    "ashby-mollie-9c99ed58-ef98-4d3c-8f28-1e53785cc6c0"
+  ],
   "Bitvavo": [],
   "Mondu": [],
   "Bitpanda": [
-    "greenhouse-bitpanda-4930651101",
-    "greenhouse-bitpanda-4954936101",
     "greenhouse-bitpanda-4995550101",
     "greenhouse-bitpanda-5009824101",
     "greenhouse-bitpanda-5009825101",
@@ -91,6 +92,7 @@
     "greenhouse-nebius-4974072101",
     "greenhouse-nebius-4988457101",
     "greenhouse-nebius-4988595101",
+    "greenhouse-nebius-5001806101",
     "greenhouse-nebius-5002869101",
     "greenhouse-nebius-5004280101"
   ],
