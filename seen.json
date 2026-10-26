@@ -8,8 +8,7 @@
     "greenhouse-sumup-8426778002",
     "greenhouse-sumup-8602383002",
     "greenhouse-sumup-8630991002",
-    "greenhouse-sumup-8637380002",
-    "greenhouse-sumup-8644926002"
+    "greenhouse-sumup-8637380002"
   ],
   "Adyen": [
     "greenhouse-adyen-7862254",
@@ -45,7 +44,6 @@
     "greenhouse-dept-8090714",
     "greenhouse-dept-8102928",
     "greenhouse-dept-8110118",
-    "greenhouse-dept-8236412",
     "greenhouse-dept-8245374",
     "greenhouse-dept-8256302",
     "greenhouse-dept-8264339"
@@ -129,9 +127,7 @@
     "ashby-ashby-f40ef345-82a8-4956-9150-193b4fdf8183",
     "ashby-ashby-fd86edd7-3af0-4977-a61a-215212c296fa"
   ],
-  "ING": [
-    "workday-ing-/job/CDR-Amsterdam---Cedar/Staff---UX-Designer_REQ-10122828"
-  ],
+  "ING": [],
   "PwC Deutschland": [],
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
@@ -141,7 +137,6 @@
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Maternity-Cover--all-genders-_2724849-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
     "workday-zalando-/job/Berlin/Senior-Commercial-Manager---Designer--all-genders-_2725311",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager---Search_2724971",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Manager--all-genders-_2726104"
   ],
@@ -156,6 +151,7 @@
     "smartrecruiters-SIXT-744000155680830",
     "smartrecruiters-SIXT-744000155742689",
     "smartrecruiters-SIXT-744000156604559",
-    "smartrecruiters-SIXT-744000157468309"
+    "smartrecruiters-SIXT-744000157468309",
+    "smartrecruiters-SIXT-744000157743380"
   ]
 }
