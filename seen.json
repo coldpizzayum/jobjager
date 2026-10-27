@@ -15,6 +15,7 @@
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8137746",
+    "greenhouse-adyen-8164042",
     "greenhouse-adyen-8242349",
     "greenhouse-adyen-8244728",
     "greenhouse-adyen-8258725",
@@ -29,7 +30,6 @@
   "Bitvavo": [],
   "Mondu": [],
   "Bitpanda": [
-    "greenhouse-bitpanda-4995550101",
     "greenhouse-bitpanda-5009824101",
     "greenhouse-bitpanda-5009825101",
     "greenhouse-bitpanda-5009827101"
@@ -68,6 +68,7 @@
   "Ostrom": [],
   "AutoScout24": [
     "greenhouse-autoscout24-7596900003",
+    "greenhouse-autoscout24-7753084003",
     "greenhouse-autoscout24-7773011003",
     "greenhouse-autoscout24-7977878003"
   ],
@@ -84,6 +85,7 @@
     "greenhouse-nebius-4907634101",
     "greenhouse-nebius-4921994101",
     "greenhouse-nebius-4945631101",
+    "greenhouse-nebius-4955928101",
     "greenhouse-nebius-4970709101",
     "greenhouse-nebius-4971190101",
     "greenhouse-nebius-4974072101",
@@ -133,7 +135,6 @@
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Zalando-Assistant--all-genders----limited-contract_2725820-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
-    "workday-zalando-/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Maternity-Cover--all-genders-_2724849-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
     "workday-zalando-/job/Berlin/Senior-Commercial-Manager---Designer--all-genders-_2725311",
@@ -142,12 +143,12 @@
   ],
   "Bosch Digital": [],
   "Delivery Hero": [
-    "smartrecruiters-DeliveryHero-744000156036369"
+    "smartrecruiters-DeliveryHero-744000156036369",
+    "smartrecruiters-DeliveryHero-744000157841650"
   ],
   "Omio": [],
   "SIXT": [
     "smartrecruiters-SIXT-744000149863006",
-    "smartrecruiters-SIXT-744000150061719",
     "smartrecruiters-SIXT-744000155680830",
     "smartrecruiters-SIXT-744000155742689",
     "smartrecruiters-SIXT-744000156604559",
