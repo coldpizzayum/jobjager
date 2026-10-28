@@ -1,6 +1,5 @@
 {
   "N26": [
-    "greenhouse-n26-8023311",
     "greenhouse-n26-8267143"
   ],
   "Trade Republic": [],
@@ -79,6 +78,7 @@
   "Nebius": [
     "greenhouse-nebius-4711796101",
     "greenhouse-nebius-4774875101",
+    "greenhouse-nebius-4828131101",
     "greenhouse-nebius-4850125101",
     "greenhouse-nebius-4850132101",
     "greenhouse-nebius-4897805101",
@@ -107,7 +107,6 @@
     "greenhouse-getyourguide-7860461",
     "greenhouse-getyourguide-7865219",
     "greenhouse-getyourguide-8152695",
-    "greenhouse-getyourguide-8158781",
     "greenhouse-getyourguide-8194650",
     "greenhouse-getyourguide-8275034",
     "greenhouse-getyourguide-8278320",
@@ -144,15 +143,17 @@
   "Bosch Digital": [],
   "Delivery Hero": [
     "smartrecruiters-DeliveryHero-744000156036369",
-    "smartrecruiters-DeliveryHero-744000157841650"
+    "smartrecruiters-DeliveryHero-744000157841650",
+    "smartrecruiters-DeliveryHero-744000158019110"
   ],
   "Omio": [],
   "SIXT": [
     "smartrecruiters-SIXT-744000149863006",
-    "smartrecruiters-SIXT-744000155680830",
     "smartrecruiters-SIXT-744000155742689",
     "smartrecruiters-SIXT-744000156604559",
     "smartrecruiters-SIXT-744000157468309",
-    "smartrecruiters-SIXT-744000157743380"
+    "smartrecruiters-SIXT-744000157743380",
+    "smartrecruiters-SIXT-744000157973314",
+    "smartrecruiters-SIXT-744000157976484"
   ]
 }
