@@ -7,7 +7,6 @@
     "greenhouse-sumup-8426778002",
     "greenhouse-sumup-8602383002",
     "greenhouse-sumup-8630991002",
-    "greenhouse-sumup-8637380002",
     "greenhouse-sumup-8644926002"
   ],
   "Adyen": [
@@ -46,7 +45,8 @@
     "greenhouse-dept-8110118",
     "greenhouse-dept-8245374",
     "greenhouse-dept-8256302",
-    "greenhouse-dept-8264339"
+    "greenhouse-dept-8264339",
+    "greenhouse-dept-8329421"
   ],
   "bol": [],
   "Databricks": [
@@ -100,14 +100,11 @@
     "ashby-kayak-28686d98-f30e-422a-a5d9-c8680eff24b6"
   ],
   "Enmacc": [],
-  "Hawk AI": [
-    "ashby-hawk-941e6f70-cf6f-4a7c-9845-958d99131ff3"
-  ],
+  "Hawk AI": [],
   "GetYourGuide": [
     "greenhouse-getyourguide-7657103",
     "greenhouse-getyourguide-7860461",
     "greenhouse-getyourguide-7865219",
-    "greenhouse-getyourguide-8152695",
     "greenhouse-getyourguide-8194650",
     "greenhouse-getyourguide-8275034",
     "greenhouse-getyourguide-8278320",
@@ -138,8 +135,7 @@
     "workday-zalando-/job/Berlin/Principal-Product-Manager---Maternity-Cover--all-genders-_2724849-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
     "workday-zalando-/job/Berlin/Senior-Commercial-Manager---Designer--all-genders-_2725311",
-    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
-    "workday-zalando-/job/Berlin/Senior-Product-Manager--all-genders-_2726104"
+    "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1"
   ],
   "Bosch Digital": [],
   "Delivery Hero": [
