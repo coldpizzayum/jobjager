@@ -1,5 +1,6 @@
 {
   "N26": [
+    "greenhouse-n26-7996650",
     "greenhouse-n26-8267143"
   ],
   "Trade Republic": [],
@@ -30,7 +31,9 @@
   "Bitpanda": [
     "greenhouse-bitpanda-5009824101",
     "greenhouse-bitpanda-5009825101",
-    "greenhouse-bitpanda-5009827101"
+    "greenhouse-bitpanda-5009827101",
+    "greenhouse-bitpanda-5027189101",
+    "greenhouse-bitpanda-5027200101"
   ],
   "Staffbase": [
     "greenhouse-staffbase-8899837002"
@@ -80,13 +83,11 @@
     "greenhouse-nebius-4711796101",
     "greenhouse-nebius-4774875101",
     "greenhouse-nebius-4828131101",
-    "greenhouse-nebius-4850125101",
     "greenhouse-nebius-4850132101",
     "greenhouse-nebius-4897805101",
     "greenhouse-nebius-4907634101",
     "greenhouse-nebius-4921994101",
     "greenhouse-nebius-4945631101",
-    "greenhouse-nebius-4955928101",
     "greenhouse-nebius-4970709101",
     "greenhouse-nebius-4971190101",
     "greenhouse-nebius-4974072101",
@@ -101,6 +102,7 @@
   "Enmacc": [],
   "Hawk AI": [],
   "GetYourGuide": [
+    "greenhouse-getyourguide-7556882",
     "greenhouse-getyourguide-7657103",
     "greenhouse-getyourguide-7860461",
     "greenhouse-getyourguide-7865219",
@@ -123,7 +125,9 @@
     "ashby-ashby-f40ef345-82a8-4956-9150-193b4fdf8183",
     "ashby-ashby-fd86edd7-3af0-4977-a61a-215212c296fa"
   ],
-  "ING": [],
+  "ING": [
+    "workday-ing-/job/CDR-Amsterdam---Cedar/Commercieel-Product-Manager-Merchant-Services_REQ-10123767-2"
+  ],
   "PwC Deutschland": [],
   "Zalando": [
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
@@ -147,7 +151,7 @@
     "smartrecruiters-SIXT-744000156604559",
     "smartrecruiters-SIXT-744000157468309",
     "smartrecruiters-SIXT-744000157743380",
-    "smartrecruiters-SIXT-744000157973314",
-    "smartrecruiters-SIXT-744000157976484"
+    "smartrecruiters-SIXT-744000157976484",
+    "smartrecruiters-SIXT-744000159559570"
   ]
 }
