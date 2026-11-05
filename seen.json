@@ -7,7 +7,6 @@
   "SumUp": [
     "greenhouse-sumup-8426778002",
     "greenhouse-sumup-8602383002",
-    "greenhouse-sumup-8630991002",
     "greenhouse-sumup-8644926002"
   ],
   "Adyen": [
@@ -48,7 +47,8 @@
     "greenhouse-dept-8245374",
     "greenhouse-dept-8256302",
     "greenhouse-dept-8264339",
-    "greenhouse-dept-8329421"
+    "greenhouse-dept-8329421",
+    "greenhouse-dept-8353538"
   ],
   "bol": [],
   "Databricks": [
@@ -57,15 +57,15 @@
     "greenhouse-databricks-8133727002",
     "greenhouse-databricks-8145800002",
     "greenhouse-databricks-8186386002",
-    "greenhouse-databricks-8831555002"
+    "greenhouse-databricks-8831555002",
+    "greenhouse-databricks-8923866002"
   ],
   "n8n": [
     "ashby-n8n-163162f1-9873-45b4-932e-aff27beea78a",
     "ashby-n8n-3129949a-eae6-48c6-8c66-8d3e060a195c",
     "ashby-n8n-473bcbae-ad3e-4611-8ca3-3499040e5f22",
     "ashby-n8n-bcf96878-d41a-479d-b506-7753356077c4",
-    "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
-    "ashby-n8n-fe05c209-8069-4a88-aeba-8da23488cd30"
+    "ashby-n8n-d418f8fb-b2f2-405e-8f22-db73dcf4e8b4"
   ],
   "Miro": [],
   "Rasa": [],
@@ -118,8 +118,10 @@
   "Ashby": [
     "ashby-ashby-188cc71b-a625-4022-94dc-7c43fa1a8b06",
     "ashby-ashby-2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
+    "ashby-ashby-40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
     "ashby-ashby-85713f4a-ad14-4edd-8c56-0065f5897551",
     "ashby-ashby-87b96eef-edc1-4de4-adb6-d460126d02f8",
+    "ashby-ashby-9599c771-a837-462f-8e03-39d18be54a51",
     "ashby-ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
     "ashby-ashby-cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
     "ashby-ashby-f40ef345-82a8-4956-9150-193b4fdf8183",
@@ -130,6 +132,7 @@
   ],
   "PwC Deutschland": [],
   "Zalando": [
+    "workday-zalando-/job/Berlin/AI-Creative-Retoucher--all-genders-_2725790-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---ZEOS--all-genders-_2724259-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Zalando-Assistant--all-genders----limited-contract_2725820-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
