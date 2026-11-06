@@ -23,7 +23,8 @@
   ],
   "Mollie": [
     "ashby-mollie-9c3e0b6f-ce76-4bd7-9144-cabce7d5b555",
-    "ashby-mollie-9c99ed58-ef98-4d3c-8f28-1e53785cc6c0"
+    "ashby-mollie-9c99ed58-ef98-4d3c-8f28-1e53785cc6c0",
+    "ashby-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd"
   ],
   "Bitvavo": [],
   "Mondu": [],
@@ -128,6 +129,7 @@
     "ashby-ashby-fd86edd7-3af0-4977-a61a-215212c296fa"
   ],
   "ING": [
+    "workday-ing-/job/CDR-Amsterdam---Cedar/Commercial-Product-Manager-Digital-Assets_REQ-10120116",
     "workday-ing-/job/CDR-Amsterdam---Cedar/Commercieel-Product-Manager-Merchant-Services_REQ-10123767-2"
   ],
   "PwC Deutschland": [],
@@ -137,7 +139,6 @@
     "workday-zalando-/job/Berlin/Principal-Product-Designer---Zalando-Assistant--all-genders----limited-contract_2725820-1",
     "workday-zalando-/job/Berlin/Principal-Product-Designer--all-genders----Size---Fit---Parental-leave-cover_2725218-1",
     "workday-zalando-/job/Berlin/Principal-Product-Manager-Marketing-Automation---Lounge-by-Zalando--all-genders-_2724593-1",
-    "workday-zalando-/job/Berlin/Senior-Commercial-Manager---Designer--all-genders-_2725311",
     "workday-zalando-/job/Berlin/Senior-Principal-Product-Manager-Post-Purchase-Engagement--all-genders-_2724716-1",
     "workday-zalando-/job/Berlin/Senior-Product-Manager--all-genders-_2726104"
   ],
@@ -149,12 +150,12 @@
   ],
   "Omio": [],
   "SIXT": [
-    "smartrecruiters-SIXT-744000149863006",
-    "smartrecruiters-SIXT-744000155742689",
-    "smartrecruiters-SIXT-744000156604559",
-    "smartrecruiters-SIXT-744000157468309",
-    "smartrecruiters-SIXT-744000157743380",
-    "smartrecruiters-SIXT-744000157976484",
-    "smartrecruiters-SIXT-744000159559570"
+    "smartrecruiters-SIXT-744000159981629",
+    "smartrecruiters-SIXT-744000160151799",
+    "smartrecruiters-SIXT-744000160153579",
+    "smartrecruiters-SIXT-744000160164939",
+    "smartrecruiters-SIXT-744000160198029",
+    "smartrecruiters-SIXT-744000160210317",
+    "smartrecruiters-SIXT-744000160211139"
   ]
 }
