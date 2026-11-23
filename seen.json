@@ -1,7 +1,5 @@
 {
-  "N26": [
-    "greenhouse-n26-8267143"
-  ],
+  "N26": [],
   "Trade Republic": [],
   "SumUp": [
     "greenhouse-sumup-8602383002"
@@ -15,7 +13,7 @@
     "greenhouse-adyen-8244728",
     "greenhouse-adyen-8281712",
     "greenhouse-adyen-8302785",
-    "greenhouse-adyen-8302822"
+    "greenhouse-adyen-8411308"
   ],
   "Mollie": [
     "ashby-mollie-9c3e0b6f-ce76-4bd7-9144-cabce7d5b555",
@@ -75,7 +73,6 @@
   "Ostrom": [],
   "AutoScout24": [
     "greenhouse-autoscout24-7753084003",
-    "greenhouse-autoscout24-7773011003",
     "greenhouse-autoscout24-7977878003"
   ],
   "Scout24": [],
@@ -131,9 +128,10 @@
   ],
   "Bosch Digital": [],
   "Delivery Hero": [
-    "smartrecruiters-DeliveryHero-744000158779512",
-    "smartrecruiters-DeliveryHero-744000160897530",
-    "smartrecruiters-DeliveryHero-744000161755797"
+    "smartrecruiters-DeliveryHero-744000161755797",
+    "smartrecruiters-DeliveryHero-744000163194279",
+    "smartrecruiters-DeliveryHero-744000163199150",
+    "smartrecruiters-DeliveryHero-744000163274814"
   ],
   "Omio": [],
   "SIXT": [
@@ -141,8 +139,8 @@
     "smartrecruiters-SIXT-744000160151799",
     "smartrecruiters-SIXT-744000160164939",
     "smartrecruiters-SIXT-744000160198029",
-    "smartrecruiters-SIXT-744000160210317",
     "smartrecruiters-SIXT-744000160211139",
-    "smartrecruiters-SIXT-744000161802034"
+    "smartrecruiters-SIXT-744000161802034",
+    "smartrecruiters-SIXT-744000163245619"
   ]
 }
