@@ -1,5 +1,9 @@
 {
-  "N26": [],
+  "N26": [
+    "greenhouse-n26-7996650",
+    "greenhouse-n26-8355849",
+    "greenhouse-n26-8416464"
+  ],
   "Trade Republic": [],
   "SumUp": [
     "greenhouse-sumup-8602383002"
@@ -9,6 +13,7 @@
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8137746",
+    "greenhouse-adyen-8227082",
     "greenhouse-adyen-8242349",
     "greenhouse-adyen-8244728",
     "greenhouse-adyen-8281712",
@@ -89,7 +94,8 @@
     "greenhouse-nebius-4971190101",
     "greenhouse-nebius-4988457101",
     "greenhouse-nebius-4988595101",
-    "greenhouse-nebius-5024943101"
+    "greenhouse-nebius-5024943101",
+    "greenhouse-nebius-5041289101"
   ],
   "Kayak": [],
   "Enmacc": [],
