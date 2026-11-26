@@ -13,7 +13,6 @@
     "greenhouse-adyen-8045868",
     "greenhouse-adyen-8060230",
     "greenhouse-adyen-8137746",
-    "greenhouse-adyen-8227082",
     "greenhouse-adyen-8242349",
     "greenhouse-adyen-8244728",
     "greenhouse-adyen-8281712",
@@ -83,7 +82,6 @@
   "Scout24": [],
   "Atolls": [],
   "Nebius": [
-    "greenhouse-nebius-4711796101",
     "greenhouse-nebius-4774875101",
     "greenhouse-nebius-4828131101",
     "greenhouse-nebius-4850132101",
@@ -94,17 +92,14 @@
     "greenhouse-nebius-4971190101",
     "greenhouse-nebius-4988457101",
     "greenhouse-nebius-4988595101",
-    "greenhouse-nebius-5024943101",
-    "greenhouse-nebius-5041289101"
+    "greenhouse-nebius-5024943101"
   ],
   "Kayak": [],
   "Enmacc": [],
   "Hawk AI": [],
   "GetYourGuide": [],
   "Contentful": [],
-  "Celonis": [
-    "greenhouse-celonis-7984249003"
-  ],
+  "Celonis": [],
   "Ashby": [
     "ashby-ashby-188cc71b-a625-4022-94dc-7c43fa1a8b06",
     "ashby-ashby-2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
@@ -140,7 +135,6 @@
     "smartrecruiters-SIXT-744000160151799",
     "smartrecruiters-SIXT-744000160164939",
     "smartrecruiters-SIXT-744000160198029",
-    "smartrecruiters-SIXT-744000160211139",
     "smartrecruiters-SIXT-744000161802034",
     "smartrecruiters-SIXT-744000163245619"
   ]
